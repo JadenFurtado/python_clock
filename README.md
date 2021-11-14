@@ -9,3 +9,8 @@
 ## How to use
 
 * The clockNew.py is the file that runs the clock. If you have have kivy installed, you can run it using any version of Python3. I have not tested it for lower version of python. The gallery is static and has to be configured by you to display whatever images you want. I will commit the changes later on.
+
+## Team members:
+
+- Jaden Furtado
+- Jash Dharia
